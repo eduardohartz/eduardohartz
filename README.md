@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Eduardo, a developer in high school.</p>
+<p align="left">I'm Eduardo, a web developer.</p>
 
 ###
 
